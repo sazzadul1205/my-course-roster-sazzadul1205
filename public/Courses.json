@@ -1,0 +1,74 @@
+[
+  {
+      "id": 1,
+      "title": "Introduction to C Programming",
+      "description": "Learn the basics of C programming in this comprehensive course. Explore topics like syntax, data types, and basic algorithms while building a strong foundation in programming.",
+      "price": 47,
+      "credit": 8,
+      "image_link": "https://i.ibb.co/fnWhqG9/Rectangle-2.png"
+  },
+  {
+      "id": 2,
+      "title": "Introduction to Algorithms",
+      "description": "Discover the fascinating world of algorithms and problem-solving techniques with this in-depth course. Master fundamental concepts and strategies used by programmers and computer scientists.",
+      "price": 62,
+      "credit": 6,
+      "image_link": "https://i.ibb.co/R9twBmc/Rectangle-2-1.png"
+  },
+  {
+      "id": 3,
+      "title": "Introduction to C++ for DSA",
+      "description": "Take your C++ skills to the next level with a focus on Data Structures and Algorithms (DSA). Explore advanced topics and apply your knowledge to solve complex problems.",
+      "price": 68,
+      "credit": 7,
+      "image_link": "https://i.ibb.co/HDzNQwM/Rectangle-2-2.png"
+  },
+  {
+      "id": 4,
+      "title": "Basic Data Structures",
+      "description": "Build a solid foundation in essential data structures such as arrays, linked lists, and stacks. Learn their applications and practical use in software development.",
+      "price": 41,
+      "credit": 4,
+      "image_link": "https://i.ibb.co/18bTN9y/Rectangle-2-3.png"
+  },
+  {
+      "id": 5,
+      "title": "Introduction to OOP Python",
+      "description": "Explore object-oriented programming (OOP) concepts using Python. Through hands-on projects and examples, gain proficiency in OOP principles and best practices.",
+      "price": 52,
+      "credit": 5,
+      "image_link": "https://i.ibb.co/pRHhGgV/Rectangle-2-4.png"
+  },
+  {
+      "id": 6,
+      "title": "AWS",
+      "description": "Embark on a journey to discover Amazon Web Services (AWS) and its powerful cloud computing capabilities. Learn to deploy applications and manage resources on the AWS platform.",
+      "price": 77,
+      "credit": 10,
+      "image_link": "https://i.ibb.co/JHbZxxy/Rectangle-2-5.png"
+  },
+  {
+      "id": 7,
+      "title": "Cloud Computing",
+      "description": "Dive into the world of cloud computing, exploring various services and deployment models. Gain a comprehensive understanding of cloud technologies and their applications.",
+      "price": 63,
+      "credit": 9,
+      "image_link": "https://i.ibb.co/VtRCKBd/Rectangle-2-6.png"
+  },
+  {
+      "id": 8,
+      "title": "Database (MySQL)",
+      "description": "Master the MySQL database management system and SQL query language. Learn to design, implement, and manage databases effectively for a wide range of applications.",
+      "price": 47,
+      "credit": 6,
+      "image_link": "https://i.ibb.co/PTjGtwV/Rectangle-3.png"
+  },
+  {
+      "id": 9,
+      "title": "Problem-Solving Part",
+      "description": "Sharpen your problem-solving skills through a series of challenging exercises and real-world scenarios. Enhance your critical thinking and logical reasoning abilities.",
+      "price": 43,
+      "credit": 3,
+      "image_link": "https://i.ibb.co/2sRr8Vb/Rectangle-3-1.png"
+  }
+]
